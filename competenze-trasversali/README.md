@@ -1,0 +1,3 @@
+# Competenze trasversali
+
+IN PROGRESS
