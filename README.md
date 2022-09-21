@@ -1,5 +1,5 @@
 # Appunti di Informatica
-Appunti liberi tratti dalle lezioni di Informatica di [Marcello Bozzi](https://marcellobozzi.it), insegnante dell'ITIS "Ettore Majorana" in Grugliasco (TO).
+Appunti liberi di Informatica tratti dalle lezioni di [Marcello Bozzi](https://marcellobozzi.it), insegnante dell'[ITIS "Ettore Majorana"](http://itismajo.it) in Grugliasco (TO).
 
 ## Mappa degli argomenti
 Questa mappa riassume e collega gli argomenti trattati durante il corso:
