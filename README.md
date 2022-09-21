@@ -3,6 +3,7 @@ Appunti liberi delle lezioni di Informatica di Marcello Bozzi, insegnante dell'I
 
 ## Mappa degli argomenti
 Questa mappa riassume e collega gli argomenti trattati durante il corso:
+
 ![Mappa degli argomenti di informatica](/_mappa-argomenti-di-informatica-4.png)
 
 ## Licenza
