@@ -4,9 +4,11 @@ Appunti liberi di Informatica tratti dalle lezioni di [Marcello Bozzi](https://m
 
 ## Mappa degli argomenti
 
-Questa mappa riassume e collega gli argomenti trattati durante il corso:
+Questa mappa riassume e collega gli argomenti trattati nel corso:
 
-![Mappa degli argomenti di informatica](/_mappa-argomenti-di-informatica-4.png)
+![Mappa degli argomenti di informatica](/_mappa-argomenti-di-informatica-5.png)
+
+Puoi anche visualizzare la versione completa di questa [mappa](/_mappa-argomenti-di-informatica-5-COMPLETA.png)
 
 ## Licenza
 

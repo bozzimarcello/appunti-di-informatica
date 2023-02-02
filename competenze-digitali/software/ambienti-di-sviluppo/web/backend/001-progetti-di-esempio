@@ -1,0 +1,13 @@
+# Progetti di esempio
+
+## Backend Dev Intro ConsoleApp
+
+Sviluppo backend, introduzione all'accesso al DB da C#
+
+https://github.com/bozzimarcello/BackendDevIntroConsoleApp
+
+## Backend Dev Intro DAL Web App
+
+Sviluppo backend, introduzione all'accesso al DB da pagine Razor con semplice DAL
+
+https://github.com/bozzimarcello/BackendDevIntroDALWebApp/tree/master
