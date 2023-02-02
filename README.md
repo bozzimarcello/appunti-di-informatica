@@ -8,7 +8,7 @@ Questa mappa riassume e collega gli argomenti trattati nel corso:
 
 ![Mappa degli argomenti di informatica](/_mappa-argomenti-di-informatica-5.png)
 
-Puoi anche visualizzare la versione completa di questa [mappa](/_mappa-argomenti-di-informatica-5-COMPLETA.png)
+Puoi anche visualizzare la [mappa completa](/_mappa-argomenti-di-informatica-5-COMPLETA.png) di tutti gli argomenti.
 
 ## Licenza
 
